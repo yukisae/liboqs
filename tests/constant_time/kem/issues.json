@@ -25,4 +25,8 @@
   "Kyber512": [],
   "Kyber768": [],
   "sntrup761": []
+  "NTRU-HPS-2048-509": [],
+  "NTRU-HPS-2048-677": [],
+  "NTRU-HPS-4096-821": [],
+  "NTRU-HRSS-701": []
 }

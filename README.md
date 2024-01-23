@@ -47,6 +47,7 @@ The list below indicates all algorithms supported by liboqs, but not all those a
 - **HQC**: HQC-128, HQC-192, HQC-256†
 - **Kyber**: Kyber512, Kyber768, Kyber1024
 - **NTRU-Prime**: sntrup761
+- **NTRU**: NTRU-HPS-2048-509, NTRU-HPS-2048-677, NTRU-HPS-4096-821, NTRU-HPS-4096-1229, NTRU-HRSS-701, NTRU-HRSS-1373
 <!--- OQS_TEMPLATE_FRAGMENT_LIST_KEXS_END -->
 
 #### Signature schemes
